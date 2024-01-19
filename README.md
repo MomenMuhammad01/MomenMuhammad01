@@ -4,6 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/MomenMuhammad01">
-    <img alt="Mo'men's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MomenMuhammad01&hide=prs&show_icons=true&include_all_commits=true&count_private=true" />
+    <img alt="Mo'men's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MomenMuhammad01&hide=stars,prs&show_icons=true&include_all_commits=true&count_private=true" />
   </a>
 </p>
