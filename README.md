@@ -3,5 +3,7 @@
 </p>
 
 <p align="center">
-  ![Mo'men's GitHub stats](https://github-readme-stats.vercel.app/api?username=MomenMuhammad01&hide=prs)
+  <a href="https://github.com/MomenMuhammad01">
+    <img alt="Mo'men's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MomenMuhammad01&hide=prs&show_icons=true&include_all_commits=true&count_private=true" />
+  </a>
 </p>
