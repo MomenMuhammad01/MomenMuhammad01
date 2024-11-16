@@ -10,21 +10,21 @@
 </div>
 
 <div align="left">
-  <img src="https://flutter.dev/images/flutter-logo-sharing.png" height="30" alt="Flutter SDK"  />
+  <img src="https://img.icons8.com/color/512/flutter.png" height="30" alt="Flutter SDK"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Android_Studio_logo_2021.svg/1024px-Android_Studio_logo_2021.svg.png" height="30" alt="Android Studio"  />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" height="30" alt="Android Studio"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Swift_logo_2.svg" height="30" alt="Swift"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" height="30" alt="Swift"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Xcode_Logo_2020.svg" height="30" alt="Xcode"  />
+  <img src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png" height="30" alt="Xcode"  />
   <img width="12" />
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/code.svg" height="30" alt="vs code"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" height="30" alt="vs code"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/terminal.svg" height="30" alt="Terminal"  />
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" height="40" alt="Java Logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Java_logo_%282013%29.svg" height="40" alt="Java Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" height="30" alt="Terminal"  />
 
 </div>
 
