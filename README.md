@@ -10,24 +10,33 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/momenmuhammad01)
 [![Email](https://img.shields.io/badge/Email-102542?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momenmuhammad01@gmail.com)
 
+[Production projects](#production-projects) · [Engineering work](#from-architecture-to-release) · [Public code](#on-my-workbench)
+
 </div>
 
 I like working on the parts of mobile apps people feel immediately. A live price updates without the rest of the screen redrawing. A dropped connection recovers. A release goes out without someone having to repeat the same steps by hand.
 
-## A closer look at live trading
+## Production projects
 
-At Skyoption, I designed the shared Flutter data module used by four production trading apps. I built the WebSocket client to recover from disconnects and scoped incoming price updates to the affected widgets so the rest of the screen could stay put.
+### Real-time trading at Skyoption
 
-**4 production apps on shared infrastructure · 1,500+ instruments in CaptaTrade**
+I designed the shared Flutter data layer used by all four apps below. I also built WebSocket reconnection and error recovery, implemented encrypted credential storage, and limited price updates to the widgets displaying them.
 
-## What I’ve shipped
+| App | What it does | Try it |
+| --- | --- | --- |
+| **CaptaTrade** | Live market data and trading across 1,500+ financial instruments. | [Google Play](https://play.google.com/store/apps/details?id=com.captatrade.captatrade) |
+| **Sky Trade** | Manage multiple trading accounts across Sky5 servers with live updates. | [Google Play](https://play.google.com/store/apps/details?id=com.sky.trading) |
+| **My Sky** | Follow forex, stocks, and crypto and test trading strategies. | [Google Play](https://play.google.com/store/apps/details?id=com.skyoption.mysky) |
+| **Sky Talent** | Take on trading challenges in a simulated environment with live market data. | [Google Play](https://play.google.com/store/apps/details?id=com.skyoption.skytalent) |
 
-| Product | My contribution |
-| --- | --- |
-| [CaptaTrade](https://apps.apple.com/eg/app/id6751276412) · [Sky Trade](https://apps.apple.com/us/app/id6474690337) · [My Sky](https://apps.apple.com/iq/app/id6474672330) · [Sky Talent](https://apps.apple.com/au/app/id6744693667) | Owned architecture decisions across the trading apps and implemented encrypted credential storage for reconnecting to trading sessions. |
-| [CEZMA](https://apps.apple.com/eg/app/id6460079151) | Started the Android-to-Flutter migration, set up the modular architecture, and implemented about 40% of the migration, including most of the UI. |
-| [Dazzify](https://apps.apple.com/eg/app/id6670177355) | Built the Flutter UI for the event-services marketplace and guided two newer Flutter developers. |
-| [Pick.a](https://matnsolutions.com/portfolio/picka) · Twasel | Profiled and reduced unnecessary rebuilds in Pick.a. Contributed to in-app calling and real-time audio in Twasel using ZEGOCLOUD. |
+### E-commerce, marketplaces & communication
+
+| App | What it does | My contribution | Explore |
+| --- | --- | --- | --- |
+| **CEZMA** | E-commerce app for browsing and shopping. | Started the Android-to-Flutter migration, designed the modular architecture, and implemented about 40% of the migration, including most of the UI. | [Google Play](https://play.google.com/store/apps/details?id=com.cezmastore.app) · [App Store](https://apps.apple.com/eg/app/cezma/id6460079151) |
+| **Dazzify** | Marketplace for discovering and booking event services. | Built the complete Flutter UI as the primary Flutter developer and guided two newer developers. | [Google Play](https://play.google.com/store/apps/details?id=com.dazzify.app) |
+| **Pick.a** | Food delivery platform with customer, courier, and cashier apps. | Used Flutter DevTools to identify and reduce unnecessary widget rebuilds. | |
+| **Twasel** | Social audio app with voice rooms and in-app calling. | Contributed to real-time audio and calling with ZEGOCLOUD. | |
 
 ## From architecture to release
 
