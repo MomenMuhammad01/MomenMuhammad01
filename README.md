@@ -4,7 +4,7 @@
 
 # Senior Flutter Developer
 
-**Real-time fintech · Flutter architecture · Native iOS with SwiftUI**
+**Real-time fintech · Flutter architecture · Building with SwiftUI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-155EEF?style=for-the-badge&logo=flutter&logoColor=white)](https://momen-dev.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/momenmuhammad01)
@@ -44,4 +44,7 @@ At Skyoption, I designed the shared Flutter data module used by four production 
 
 ## GitHub activity
 
-[View my contributions](https://github.com/MomenMuhammad01#contribution-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MomenMuhammad01/MomenMuhammad01/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/MomenMuhammad01/MomenMuhammad01/output/snake.svg" alt="Animated snake moving through Mo’men’s GitHub contribution calendar" width="100%" />
+</picture>
