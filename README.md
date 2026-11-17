@@ -21,25 +21,71 @@ I like working on the parts of mobile apps people feel immediately. A live price
 ### Real-time trading at Skyoption
 
 I designed the shared Flutter data layer used by all four apps below. I also built WebSocket reconnection and error recovery, implemented encrypted credential storage, and limited price updates to the widgets displaying them.
-
-| App | What it does | Try it |
-| --- | --- | --- |
-| **CaptaTrade** | Live market data and trading across 1,500+ financial instruments. | [Google Play](https://play.google.com/store/apps/details?id=com.captatrade.captatrade) · [App Store](https://apps.apple.com/eg/app/id6751276412) |
-| **Sky Trade** | Manage multiple trading accounts across Sky5 servers with live updates. | [Google Play](https://play.google.com/store/apps/details?id=com.sky.trading) · [App Store](https://apps.apple.com/us/app/id6474690337) |
-| **My Sky** | Follow forex, stocks, and crypto and test trading strategies. | [Google Play](https://play.google.com/store/apps/details?id=com.skyoption.mysky) · [App Store](https://apps.apple.com/iq/app/id6474672330) |
-| **Sky Talent** | Take on trading challenges in a simulated environment with live market data. | [Google Play](https://play.google.com/store/apps/details?id=com.skyoption.skytalent) · [App Store](https://apps.apple.com/au/app/id6744693667) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>📈 CaptaTrade</h4>
+<p>Live market data and trading across 1,500+ financial instruments.</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.captatrade.captatrade"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-007F73?style=flat-square&amp;logo=googleplay&amp;logoColor=white"></a> · <a href="https://apps.apple.com/eg/app/id6751276412"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-155EEF?style=flat-square&amp;logo=apple&amp;logoColor=white"></a></p>
+</td>
+<td width="50%" valign="top">
+<h4>🔀 Sky Trade</h4>
+<p>Manage multiple trading accounts across Sky5 servers with live updates.</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.sky.trading"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-007F73?style=flat-square&amp;logo=googleplay&amp;logoColor=white"></a> · <a href="https://apps.apple.com/us/app/id6474690337"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-155EEF?style=flat-square&amp;logo=apple&amp;logoColor=white"></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🌐 My Sky</h4>
+<p>Follow forex, stocks, and crypto and test trading strategies.</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.skyoption.mysky"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-007F73?style=flat-square&amp;logo=googleplay&amp;logoColor=white"></a> · <a href="https://apps.apple.com/iq/app/id6474672330"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-155EEF?style=flat-square&amp;logo=apple&amp;logoColor=white"></a></p>
+</td>
+<td width="50%" valign="top">
+<h4>🎯 Sky Talent</h4>
+<p>Take on trading challenges in a simulated environment with live market data.</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.skyoption.skytalent"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-007F73?style=flat-square&amp;logo=googleplay&amp;logoColor=white"></a> · <a href="https://apps.apple.com/au/app/id6744693667"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-155EEF?style=flat-square&amp;logo=apple&amp;logoColor=white"></a></p>
+</td>
+</tr>
+</table>
 
 ### E-commerce, marketplaces & communication
-
-| App | What it does | My contribution | Explore |
-| --- | --- | --- | --- |
-| **CEZMA** | E-commerce app for browsing and shopping. | Started the Android-to-Flutter migration, designed the modular architecture, and implemented about 40% of the migration, including most of the UI. | [Google Play](https://play.google.com/store/apps/details?id=com.cezmastore.app) · [App Store](https://apps.apple.com/eg/app/id6460079151) |
-| **Dazzify** | Marketplace for discovering and booking event services. | Built the complete Flutter UI as the primary Flutter developer and guided two newer developers. | [Google Play](https://play.google.com/store/apps/details?id=com.dazzify.app) · [App Store](https://apps.apple.com/eg/app/id6670177355) |
-| **Pick.a** | Food delivery platform with customer, courier, and cashier apps. | Used Flutter DevTools to identify and reduce unnecessary widget rebuilds. | [Matn portfolio](https://matnsolutions.com/portfolio/picka) · [Customer](https://play.google.com/store/apps/details?id=com.matn.picka), [Delivery](https://play.google.com/store/apps/details?id=com.matn.picka.delivery), [Cashier](https://play.google.com/store/apps/details?id=com.matn.picka.cashier) (historical) |
-| **Twasel** | Social audio app with voice rooms and in-app calling. | Contributed to real-time audio and calling with ZEGOCLOUD. | [Google Play](https://play.google.com/store/apps/details?id=com.matn.talkcat) · [App Store](https://apps.apple.com/us/app/tawasol-voice-chat-rooms/id6480116326) (historical) |
-| **Mabna** | Construction-services app for consumers and businesses, with mapping and payments. | Contributed as part of the Matn Solutions team. | [Google Play](https://play.google.com/store/apps/details?id=com.matn.mabna) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>🛍️ CEZMA</h4>
+<p>E-commerce app for browsing and shopping.</p><p><strong>My contribution</strong><br>Started the Android-to-Flutter migration, designed the modular architecture, and implemented about 40% of the migration, including most of the UI.</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.cezmastore.app"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-007F73?style=flat-square&amp;logo=googleplay&amp;logoColor=white"></a> · <a href="https://apps.apple.com/eg/app/id6460079151"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-155EEF?style=flat-square&amp;logo=apple&amp;logoColor=white"></a></p>
+</td>
+<td width="50%" valign="top">
+<h4>🎉 Dazzify</h4>
+<p>Marketplace for discovering and booking event services.</p><p><strong>My contribution</strong><br>Built the complete Flutter UI as the primary Flutter developer and guided two newer developers.</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.dazzify.app"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-007F73?style=flat-square&amp;logo=googleplay&amp;logoColor=white"></a> · <a href="https://apps.apple.com/eg/app/id6670177355"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-155EEF?style=flat-square&amp;logo=apple&amp;logoColor=white"></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🛵 Pick.a</h4>
+<p>Food delivery platform with customer, courier, and cashier apps.</p><p><strong>My contribution</strong><br>Used Flutter DevTools to identify and reduce unnecessary widget rebuilds.</p>
+<p><a href="https://matnsolutions.com/portfolio/picka"><img alt="Matn portfolio" src="https://img.shields.io/badge/Matn%20portfolio-526581?style=flat-square"></a> · <a href="https://play.google.com/store/apps/details?id=com.matn.picka"><img alt="Customer" src="https://img.shields.io/badge/Customer-526581?style=flat-square"></a>, <a href="https://play.google.com/store/apps/details?id=com.matn.picka.delivery"><img alt="Delivery" src="https://img.shields.io/badge/Delivery-526581?style=flat-square"></a>, <a href="https://play.google.com/store/apps/details?id=com.matn.picka.cashier"><img alt="Cashier" src="https://img.shields.io/badge/Cashier-526581?style=flat-square"></a> (historical)</p>
+</td>
+<td width="50%" valign="top">
+<h4>🎙️ Twasel</h4>
+<p>Social audio app with voice rooms and in-app calling.</p><p><strong>My contribution</strong><br>Contributed to real-time audio and calling with ZEGOCLOUD.</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.matn.talkcat"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-007F73?style=flat-square&amp;logo=googleplay&amp;logoColor=white"></a> · <a href="https://apps.apple.com/us/app/tawasol-voice-chat-rooms/id6480116326"><img alt="App Store" src="https://img.shields.io/badge/App%20Store-155EEF?style=flat-square&amp;logo=apple&amp;logoColor=white"></a> (historical)</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h4>🏗️ Mabna</h4>
+<p>Construction-services app for consumers and businesses, with mapping and payments.</p><p><strong>My contribution</strong><br>Contributed as part of the Matn Solutions team.</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.matn.mabna"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-007F73?style=flat-square&amp;logo=googleplay&amp;logoColor=white"></a></p>
+</td>
+</tr>
+</table>
 
 ## From architecture to release
+
+![Flutter](https://img.shields.io/badge/Flutter-155EEF?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-155EEF?style=flat-square&logo=dart&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-007F73?style=flat-square&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-007F73?style=flat-square&logo=kotlin&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-526581?style=flat-square&logo=githubactions&logoColor=white)
 
 - **Architecture & state** · Modular packages, Clean Architecture, dependency injection, BLoC and Cubit. I own architectural decisions on production trading apps and contribute to code reviews and technical design.
 - **Networking & performance** · REST APIs, Dio, WebSockets, Dart Streams, Flutter DevTools, widget rebuild analysis, and shader profiling.
