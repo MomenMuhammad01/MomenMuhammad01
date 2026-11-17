@@ -100,9 +100,32 @@ I designed the shared Flutter data layer used by all four apps below. I also bui
 <h3>🎬 TMDA · Native iOS rebuild</h3>
 <p><img alt="In progress" src="https://img.shields.io/badge/In%20progress-007F73?style=flat-square"> <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-526581?style=flat-square&amp;logo=swift&amp;logoColor=white"> <img alt="MVVM" src="https://img.shields.io/badge/MVVM-526581?style=flat-square"></p>
 <p>I’m rebuilding my Flutter movie and TV discovery app in SwiftUI. The app uses TMDB to help people find titles and explore cast details, reviews, and trailers.</p>
-<p><a href="https://github.com/Bit-Camp-IO/TMDA-Flutter"><img alt="Browse Flutter source" src="https://img.shields.io/badge/Browse%20Flutter%20source-155EEF?style=flat-square&amp;logo=github&amp;logoColor=white"></a></p>
 </td>
 </tr>
+</table>
+
+### Personal Flutter apps
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>🎬 TMDA Flutter</h4>
+<p><img alt="Flutter" src="https://img.shields.io/badge/Flutter-007F73?style=flat-square&amp;logo=flutter&amp;logoColor=white"></p>
+<p>Browse and search movies and TV shows, then explore cast details, reviews, and trailers using the TMDB API. This is the original app behind the SwiftUI rebuild.</p>
+<p><a href="https://github.com/Bit-Camp-IO/TMDA-Flutter"><img alt="View repository" src="https://img.shields.io/badge/View%20repository-155EEF?style=flat-square&amp;logo=github&amp;logoColor=white"></a></p>
+</td>
+<td width="50%" valign="top">
+<h4>🛍️ E-Fashion</h4>
+<p><img alt="Flutter" src="https://img.shields.io/badge/Flutter-007F73?style=flat-square&amp;logo=flutter&amp;logoColor=white"></p>
+<p>A Flutter fashion storefront built with BLoC and Clean Architecture. The project includes Stripe integration and real-time updates.</p>
+<p><a href="https://github.com/Bit-Camp-IO/E-Fashion_Flutter"><img alt="View repository" src="https://img.shields.io/badge/View%20repository-155EEF?style=flat-square&amp;logo=github&amp;logoColor=white"></a></p>
+</td>
+</tr>
+</table>
+
+### Dart developer tools
+
+<table>
 <tr>
 <td width="50%" valign="top">
 <h4>🔍 Cognitive Complexity Analyzer</h4>
