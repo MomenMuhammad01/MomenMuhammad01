@@ -1,27 +1,44 @@
-# Mo’men Muhammad
+<div align="center">
 
-**Senior Flutter Developer · Fintech & Real-Time Mobile Applications**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:102542,50:155EEF,100:00C2A8&amp;height=170&amp;section=header&amp;text=Mo%E2%80%99men%20Muhammad&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=40" alt="Mo’men Muhammad" />
 
-I build Flutter apps for iOS and Android, with a focus on real-time data, modular architecture, and UI performance. I’m currently building a native iOS version of TMDA with SwiftUI.
+# Senior Flutter Developer
 
-[LinkedIn](https://www.linkedin.com/in/momenmuhammad01/) · [Email](mailto:momenmuhammad01@gmail.com)
+**Fintech · Real-time mobile apps · Native iOS in progress**
 
-## Production work
+[![Portfolio](https://img.shields.io/badge/Portfolio-155EEF?style=for-the-badge&logo=flutter&logoColor=white)](https://momen-dev.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/momenmuhammad01)
+[![Email](https://img.shields.io/badge/Email-102542?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momenmuhammad01@gmail.com)
 
-- Designed a shared data module and migrated four production Flutter apps to it.
-- Built a WebSocket client for trading apps with automatic reconnection and stream error handling. Optimized high-frequency market updates so only affected widgets rebuild.
-- Helped rebuild CEZMA in Flutter, setting up its architecture and implementing most of the UI.
+</div>
 
-## Selected repositories
+I like working on the parts of mobile apps people feel immediately. A live price updates without the rest of the screen redrawing. A dropped connection recovers. A release goes out without someone having to repeat the same steps by hand.
 
-| Project | What it does |
+## What I’ve shipped
+
+| Product | My contribution |
 | --- | --- |
-| [TMDA Flutter](https://github.com/MomenMuhammad01/TMDA-Flutter) | Browse and search movies and TV shows using the TMDB API. |
-| [Cognitive Complexity Analyzer](https://github.com/MomenMuhammad01/cognitive_complexity_analyzer) | Analyze Dart code for cognitive complexity and flag functions that exceed configurable thresholds. |
-| [Test Coverage Reporter](https://github.com/MomenMuhammad01/test_coverage_reporter) | Generate targeted Flutter test coverage reports from LCOV data. |
+| [CaptaTrade](https://apps.apple.com/eg/app/id6751276412) · [Sky Trade](https://apps.apple.com/us/app/id6474690337) · [My Sky](https://apps.apple.com/iq/app/id6474672330) · [Sky Talent](https://apps.apple.com/au/app/id6744693667) | Designed the shared Flutter data module adopted by all four trading apps. Built WebSocket reconnection and error handling, added encrypted credential storage, and isolated market-price updates to the widgets that needed them. |
+| [CEZMA](https://apps.apple.com/eg/app/id6460079151) | Started the Android-to-Flutter migration, set up the modular architecture, and implemented about 40% of the migration, including most of the UI. |
+| [Dazzify](https://apps.apple.com/eg/app/id6670177355) | Built the Flutter UI for the event-services marketplace and guided two newer Flutter developers. |
+| [Pick.a](https://matnsolutions.com/portfolio/picka) · Twasel | Profiled and reduced unnecessary rebuilds in Pick.a. Contributed to in-app calling and real-time audio in Twasel using ZEGOCLOUD. |
 
-## Stack
+## From architecture to release
 
-- **Mobile** · Flutter, Dart, Swift, SwiftUI
-- **Networking** · WebSockets, REST APIs, Dio
-- **Performance and testing** · Flutter DevTools, Flutter test, bloc_test, Mocktail
+- **Architecture & state** · Modular packages, Clean Architecture, dependency injection, BLoC and Cubit. I own architectural decisions on production trading apps and contribute to code reviews and technical design.
+- **Networking & performance** · REST APIs, Dio, WebSockets, Dart Streams, Flutter DevTools, widget rebuild analysis, and shader profiling.
+- **Native integration** · Built a Flutter plugin using MethodChannel to connect Dart to Kotlin and Swift implementations.
+- **Testing & delivery** · Write unit tests with Flutter’s testing tools. Work with GitHub Actions, Fastlane, Codemagic, App Store Connect, Google Play Console, and Firebase Crashlytics. Built an internal AI-assisted tool for release notes, versioning, and builds.
+
+## On my workbench
+
+- **[TMDA Flutter](https://github.com/Bit-Camp-IO/TMDA-Flutter)** · A movie and TV discovery app powered by TMDB. I’m rebuilding it for native iOS with Swift, SwiftUI, and MVVM.
+- **[Cognitive Complexity Analyzer](https://github.com/MomenMuhammad01/cognitive_complexity_analyzer)** · A Dart tool for measuring cognitive complexity with configurable thresholds.
+- **[Test Coverage Reporter](https://github.com/MomenMuhammad01/test_coverage_reporter)** · A Dart package for generating focused Flutter coverage reports from LCOV data.
+
+<details>
+<summary>Contribution snake</summary>
+
+![Contribution snake](https://raw.githubusercontent.com/MomenMuhammad01/MomenMuhammad01/output/snake.svg)
+
+</details>
