@@ -94,9 +94,30 @@ I designed the shared Flutter data layer used by all four apps below. I also bui
 
 ## On my workbench
 
-- **[TMDA Flutter](https://github.com/Bit-Camp-IO/TMDA-Flutter)** · A movie and TV discovery app powered by TMDB. I’m rebuilding it for native iOS with Swift, SwiftUI, and MVVM.
-- **[Cognitive Complexity Analyzer](https://github.com/MomenMuhammad01/cognitive_complexity_analyzer)** · A Dart tool for measuring cognitive complexity with configurable thresholds.
-- **[Test Coverage Reporter](https://github.com/MomenMuhammad01/test_coverage_reporter)** · A Dart package for generating focused Flutter coverage reports from LCOV data.
+<table>
+<tr>
+<td colspan="2" valign="top">
+<h3>🎬 TMDA · Native iOS rebuild</h3>
+<p><img alt="In progress" src="https://img.shields.io/badge/In%20progress-007F73?style=flat-square"> <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-526581?style=flat-square&amp;logo=swift&amp;logoColor=white"> <img alt="MVVM" src="https://img.shields.io/badge/MVVM-526581?style=flat-square"></p>
+<p>I’m rebuilding my Flutter movie and TV discovery app in SwiftUI. The app uses TMDB to help people find titles and explore cast details, reviews, and trailers.</p>
+<p><a href="https://github.com/Bit-Camp-IO/TMDA-Flutter"><img alt="Browse Flutter source" src="https://img.shields.io/badge/Browse%20Flutter%20source-155EEF?style=flat-square&amp;logo=github&amp;logoColor=white"></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🔍 Cognitive Complexity Analyzer</h4>
+<p><img alt="Dart CLI" src="https://img.shields.io/badge/Dart%20CLI-007F73?style=flat-square&amp;logo=dart&amp;logoColor=white"></p>
+<p>Find Dart functions that exceed your team’s cognitive complexity thresholds.</p>
+<p><a href="https://github.com/MomenMuhammad01/cognitive_complexity_analyzer"><img alt="View analyzer" src="https://img.shields.io/badge/View%20analyzer-155EEF?style=flat-square&amp;logo=github&amp;logoColor=white"></a></p>
+</td>
+<td width="50%" valign="top">
+<h4>📊 Test Coverage Reporter</h4>
+<p><img alt="Dart package" src="https://img.shields.io/badge/Dart%20package-007F73?style=flat-square&amp;logo=dart&amp;logoColor=white"></p>
+<p>Turn Flutter test coverage data into focused reports for the files and folders you choose.</p>
+<p><a href="https://github.com/MomenMuhammad01/test_coverage_reporter"><img alt="View reporter" src="https://img.shields.io/badge/View%20reporter-155EEF?style=flat-square&amp;logo=github&amp;logoColor=white"></a></p>
+</td>
+</tr>
+</table>
 
 ## GitHub activity
 
