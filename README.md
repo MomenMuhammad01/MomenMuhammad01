@@ -4,7 +4,7 @@
 
 # Senior Flutter Developer
 
-**Fintech · Real-time mobile apps · Native iOS in progress**
+**Real-time fintech · Flutter architecture · Native iOS with SwiftUI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-155EEF?style=for-the-badge&logo=flutter&logoColor=white)](https://momen-dev.web.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/momenmuhammad01)
@@ -14,11 +14,17 @@
 
 I like working on the parts of mobile apps people feel immediately. A live price updates without the rest of the screen redrawing. A dropped connection recovers. A release goes out without someone having to repeat the same steps by hand.
 
+## A closer look at live trading
+
+At Skyoption, I designed the shared Flutter data module used by four production trading apps. I built the WebSocket client to recover from disconnects and scoped incoming price updates to the affected widgets so the rest of the screen could stay put.
+
+**4 production apps on shared infrastructure · 1,500+ instruments in CaptaTrade**
+
 ## What I’ve shipped
 
 | Product | My contribution |
 | --- | --- |
-| [CaptaTrade](https://apps.apple.com/eg/app/id6751276412) · [Sky Trade](https://apps.apple.com/us/app/id6474690337) · [My Sky](https://apps.apple.com/iq/app/id6474672330) · [Sky Talent](https://apps.apple.com/au/app/id6744693667) | Designed the shared Flutter data module adopted by all four trading apps. Built WebSocket reconnection and error handling, added encrypted credential storage, and isolated market-price updates to the widgets that needed them. |
+| [CaptaTrade](https://apps.apple.com/eg/app/id6751276412) · [Sky Trade](https://apps.apple.com/us/app/id6474690337) · [My Sky](https://apps.apple.com/iq/app/id6474672330) · [Sky Talent](https://apps.apple.com/au/app/id6744693667) | Owned architecture decisions across the trading apps and implemented encrypted credential storage for reconnecting to trading sessions. |
 | [CEZMA](https://apps.apple.com/eg/app/id6460079151) | Started the Android-to-Flutter migration, set up the modular architecture, and implemented about 40% of the migration, including most of the UI. |
 | [Dazzify](https://apps.apple.com/eg/app/id6670177355) | Built the Flutter UI for the event-services marketplace and guided two newer Flutter developers. |
 | [Pick.a](https://matnsolutions.com/portfolio/picka) · Twasel | Profiled and reduced unnecessary rebuilds in Pick.a. Contributed to in-app calling and real-time audio in Twasel using ZEGOCLOUD. |
@@ -36,9 +42,6 @@ I like working on the parts of mobile apps people feel immediately. A live price
 - **[Cognitive Complexity Analyzer](https://github.com/MomenMuhammad01/cognitive_complexity_analyzer)** · A Dart tool for measuring cognitive complexity with configurable thresholds.
 - **[Test Coverage Reporter](https://github.com/MomenMuhammad01/test_coverage_reporter)** · A Dart package for generating focused Flutter coverage reports from LCOV data.
 
-<details>
-<summary>Contribution snake</summary>
+## GitHub activity
 
-![Contribution snake](https://raw.githubusercontent.com/MomenMuhammad01/MomenMuhammad01/output/snake.svg)
-
-</details>
+[View my contributions](https://github.com/MomenMuhammad01#contribution-graph)
